@@ -11,3 +11,7 @@ lastnames = import_data_from_file("./data/name/lastname.dat")
 cities = import_data_from_file("./data/location/city.dat")
 occupations = import_data_from_file("./data/occupation.dat")
 print(random.choice(lastnames) + " " + random.choice(female_names))
+
+profile = {
+    "name" =
+}
